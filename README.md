@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Daniel 👋
+
+I'm working as a web and mobile development lead. Mostly I'm working on 3D graphics programming in the web, like WebGL or WebGPU
 
 <!--
 **hsimpson/hsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
