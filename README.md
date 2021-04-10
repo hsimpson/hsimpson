@@ -2,13 +2,13 @@
 
 I'm working as a web and mobile development lead. Mostly I'm working on 3D graphics programming in the web, like WebGL or WebGPU
 
-<a href="https://hsimpson.github.io">Website</a>
+<a href="https://hsimpson.github.io" target="_blank">Website</a>
 
-<a href="https://twitter.com/daniel_toplak">Twitter</a>
+<a href="https://twitter.com/daniel_toplak" target="_blank">Twitter</a>
 
-<a href="https://www.twitch.tv/donnerknalli">Twitch</a>
+<a href="https://www.twitch.tv/donnerknalli" target="_blank">Twitch</a>
 
-<a href="https://www.youtube.com/channel/UCG_DSyi9GdeEVyzUUfVOxSQ">YouTube</a>
+<a href="https://www.youtube.com/channel/UCG_DSyi9GdeEVyzUUfVOxSQ" target="_blank">YouTube</a>
 
                                                                                                                            
 <!--
