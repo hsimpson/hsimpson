@@ -10,6 +10,7 @@ I'm working as a web and mobile development lead. Mostly I'm working on 3D graph
 
 <a href="https://www.youtube.com/channel/UCG_DSyi9GdeEVyzUUfVOxSQ">YouTube</a>
 
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsimpson&show_icons=true&theme=radical)
                                                                                                                            
 <!--
 **hsimpson/hsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
