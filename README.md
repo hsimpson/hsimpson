@@ -1,6 +1,6 @@
 ### Hi I'm Daniel 👋
 
-I'm working as a web and mobile development lead. Mostly I'm working on 3D graphics programming in the web, like WebGL or WebGPU
+I'm working as a senior software engineer. Mostly I'm working on 3D graphics programming in the web, like WebGL or WebGPU
 
 <a href="https://twitter.com/daniel_toplak">Twitter</a>
 
